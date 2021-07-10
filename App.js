@@ -114,7 +114,7 @@ const App = () => {
         backgroundStyle
       }}>
       <View style={{
-        height: 120,
+        height: 120
       }}>
         <ImageBackground
           source={require('./bg-api.jpg')}
